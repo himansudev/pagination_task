@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA5F951C-E9FB-46CA-B4FB-6255E0A5595C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1490AA58-2E5A-41CB-B695-50ED282E1848"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task_Himansu/PostsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1490AA58-2E5A-41CB-B695-50ED282E1848 - e4f1f33b3da0e77c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_Himansu.PostsViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "Task_Himansu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himansu/Desktop/Task_Himansu/Task_Himansu/PostsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "1490AA58-2E5A-41CB-B695-50ED282E1848 - e4f1f33b3da0e77c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_Himansu.PostsViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "Task_Himansu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himansu/Desktop/Task_Himansu/Task_Himansu/PostsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
